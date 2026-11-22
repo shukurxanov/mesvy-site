@@ -32,7 +32,7 @@ header {
   border-bottom: 1px solid var(--line);
 }
 header .wrap { display: flex; align-items: center; justify-content: space-between; height: 64px; }
-.logo { display: flex; align-items: center; gap: 10px; font-weight: 800; font-size: 22px; color: var(--text); letter-spacing: -0.5px; }
+.logo { display: flex; align-items: center; gap: 10px; font-weight: 800; font-size: 22px; color: var(--text); letter-spacing: 1.2px; text-transform: uppercase; }
 .logo:hover { text-decoration: none; }
 .logo-mark {
   width: 32px; height: 32px; border-radius: 9px;
